@@ -1,4 +1,4 @@
--Hi, I’m @gPiscopo3
+Hi, I’m @gPiscopo3
 
 <!---
 gPiscopo3/gPiscopo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
